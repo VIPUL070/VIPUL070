@@ -2,7 +2,7 @@
 
 ## 3rd-year CS Student | Builder | Web Developer
 
-Hi! I'm a passionate Computer Science student exploring the world of software development — from DSA to full-stack web apps and AI.
+Hi! I'm a Computer Science student exploring the world of software development — from DSA to full-stack web apps and AI.
 
 * 🌍 I'm based in India
 * ✉️ You can contact me at [sutharvipul007@gmail.com](mailto:sutharvipul007@gmail.com)
